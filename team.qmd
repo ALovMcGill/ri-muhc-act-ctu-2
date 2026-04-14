@@ -1,0 +1,51 @@
+---
+title: "The Team"
+page-layout: full
+---
+
+# ACT-CTU Team
+
+The Accelerating Clinical Trials – Clinical Trials Unit (ACT-CTU) brings together clinical, scientific, and operational expertise to support the design and delivery of high-quality clinical trials at the RI-MUHC.
+
+---
+
+## Leadership
+
+::: {.grid}
+
+::: {.g-col-4}
+
+![](images/sushmita-pamidi.jpg){.team-photo}
+
+### Dr. Sushmita Pamidi  
+**Co-Chair, ACT-CTU**
+
+Dr. Sushmita Pamidi is a Respirologist and Sleep Physician, and an Associate Professor in the Department of Medicine at McGill University and the Research Institute of the McGill University Health Centre (RI-MUHC). She is a clinician-scientist with expertise in epidemiology, clinical trials, and health outcomes research, using both observational and interventional study designs.
+
+Dr. Pamidi completed her medical training at the University of Toronto, residency in Internal Medicine and Respirology at the University of Western Ontario, and fellowship training in Sleep Medicine at the University of Chicago. She subsequently completed a Master’s in Epidemiology at McGill University, where she now leads an active research program. She is Director of the Respiratory Epidemiology and Clinical Research Unit and Co-Leader of the Translational Research in Respiratory Diseases Program. Her research focuses on cardiometabolic health and obstructive sleep apnea, including its impact on high-risk populations such as pregnant individuals.
+
+:::
+
+::: {.g-col-4}
+
+![](images/louise-pilote.jpg){.team-photo}
+
+### Dr. Louise Pilote  
+**Co-Chair, ACT-CTU**
+  
+Dr. Louise Pilote is a Senior Scientist at the Research Institute of the McGill University Health Centre (RI-MUHC) and a Professor of Medicine at McGill University. She serves as Deputy Executive Director and Deputy Chief Scientific Officer of the RI-MUHC and holds a James McGill Chair.
+
+Dr. Pilote completed a Master of Public Health at the Harvard School of Public Health and a PhD in Epidemiology at the University of California, Berkeley. A clinician-scientist by training, her research focuses on cardiovascular epidemiology, health services research, and outcomes research. She has published extensively on the effectiveness and quality of cardiovascular care, with an emphasis on improving patient outcomes and equity in care delivery.
+
+:::
+
+::: {.g-col-4}
+
+![](images/amanda-lovato.jpg){.team-photo}
+
+### Amanda Lovato  
+**Project Manager, ACT-CTU** 
+ 
+Amanda Lovato is the Project Manager of the Accelerating Clinical Trials – Clinical Trials Unit (ACT-CTU) at the Research Institute of the McGill University Health Centre (RI-MUHC). In this role, she leads the development and coordination of institutional initiatives designed to strengthen clinical trial capacity, support investigators, and foster a collaborative clinical research ecosystem.
+
+Amanda plays a central role in advancing ACT-CTU programs, including Clinical Trial Rounds, Protocol Review Sessions, regulatory and methodological support services, and national collaboration initiatives. She works closely with investigators, institutional leadership, and national partners to enhance trial infrastructure, streamline processes, and support the successful delivery of clinical research across the RI-MUHC and the broader ACT network.

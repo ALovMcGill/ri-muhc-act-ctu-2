@@ -1,0 +1,17 @@
+---
+title: "Initiatives"
+---
+
+## Initiatives
+
+1. [ACT-CTU Clinical Trial Rounds](initiatives/clinical-trial-rounds.qmd)
+2. [ACT-CTU Protocol Review Session](initiatives/protocol-review-session.qmd)
+3. [Build Shared Human Resources Capacity](initiatives/key-shared-staff.qmd)
+4. [Connect Trials with the ACT Network](initiatives/act-network.qmd)
+5. [Build and Share Key Trial Resources and Tools](initiatives/trials-data.qmd)
+6. [CTMS and eTMF Access and Support](initiatives/ctms-etmf.qmd)
+7. [Internal Call for Pilot Studies](initiatives/pilot-studies.qmd)
+8. [Promote ACT-CTU Sustainability](initiatives/sustainability.qmd)
+9. [Enhance the Centre for Innovative Medicine](initiatives/cim.qmd)
+10. [Establish Permission to Contact for Research](initiatives/universal-consent.qmd)
+11. [Promote Patient Engagement in Trials](initiatives/patient-engagement.qmd)

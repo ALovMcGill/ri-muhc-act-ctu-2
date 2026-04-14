@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "ACT-CTU | RI-MUHC"
+  navbar:
+    logo: images/act-ctu-logo.png
+    left:
+      - text: Home
+        href: index.qmd
+      - text: The Team
+        href: team.qmd
+      - text: Initiatives
+        href: initiatives.qmd
+      - text: Other Resources
+        href: resources.qmd
+  page-footer:
+    left: "ACT-CTU | Research Institute of the McGill University Health Centre"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    smooth-scroll: true
